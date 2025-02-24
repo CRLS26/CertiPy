@@ -21,7 +21,13 @@ O **CertiPy** é um gerenciador de certificados digitais que permite aos usuári
 2. Utilize os botões na interface para selecionar, instalar, listar ou desinstalar certificados digitais.
 3. Siga as instruções na tela para completar cada operação.
 
-💙 **Agradecimentos**  
+## 🤝 Contribuição
+Contribuições são bem-vindas! Você pode ajudar de várias formas:
+- Reportando bugs 🐞
+- Sugerindo melhorias 💡
+- Enviando pull requests 📥
+
+## 💙 **Agradecimentos**  
 💻 **Contribuidores do projeto**  
 🛠 **Usuários que reportam bugs e sugerem melhorias**  
 
